@@ -29,7 +29,7 @@ For bounds 10 and 30, the sequence is `10 15 20 25 30`. For bounds that do not d
 
 ## Team and source
 
-The source credits Abdulrahman Ali Alhazmi and Basel Yousef Hazre, Group 31. It was located as App 2.java alongside the course project brief and other drafts. The prepared file is named `App.java` to match its public class and placed under `src/app/` to match its package. Student IDs in the comment were removed; executable code is unchanged. The located files do not establish individual implementation contributions or which draft was ultimately submitted.
+Team size: 2 members. It was located as App 2.java alongside the course project brief and other drafts. The prepared file is named `App.java` to match its public class and placed under `src/app/` to match its package. Student IDs in the comment were removed; executable code is unchanged. The located files do not establish individual implementation contributions or which draft was ultimately submitted.
 
 ## Build and run the original project
 
