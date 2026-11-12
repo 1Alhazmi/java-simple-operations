@@ -4,7 +4,7 @@ An introductory Java course project for CS1211 Computer Programming 1, 2024/2025
 
 ## Repository status
 
-This repository currently publishes the project overview. The supporting files described below are prepared locally but have not yet been uploaded to GitHub. File paths describe that prepared package; they are not download links. Build commands require those source files and dependencies.
+This repository includes the original academic project files, documentation and available illustrations. Team credits and verification limits are preserved below.
 
 ## Functionality
 
